@@ -10,3 +10,4 @@ Cada título contará con su sinopsis detallada, permitiendo conocer la trama an
 DER: 
 En nuestro diagrama de entidad de datos, se muestran items (peliculas) y a que categoria pertenecen (generos). A su vez dejamos la tabla que contiene al administrador a la vista para su futuro uso.
 
+![Imagen DER](DER.png)
