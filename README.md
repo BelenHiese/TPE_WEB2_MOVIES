@@ -28,4 +28,4 @@ Como desplegar el sitio.
 
    Crear una DB con nombre "g1_db_movies" vacio.
    El sitio crea y completa las tablas en la DB.
-   En el browser ingresar "localhost/TPE_WEB2_MOVIES"
+   En el browser ingresar "localhost/TPE_WEB2_MOVIES-main"
