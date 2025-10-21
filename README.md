@@ -23,7 +23,7 @@ Admin: El administrador podra editar, agregar o eliminar cualquier pelicula con 
 Como desplegar el sitio.
 
 1. Iniciar apache y phpMyAdmin.
-2. 2.Clonar el repositorio "https://github.com/BelenHiese/TPE_WEB2_MOVIES" dentro de la carpeta C:/xammp/htdocs.
+2. 2.Clonar el repositorio "https://github.com/BelenHiese/TPE_WEB2_MOVIES-main" dentro de la carpeta C:/xammp/htdocs.
 3. En el browser iniciar localhost/phpMyAdmin
 
    Crear una DB con nombre "g1_db_movies" vacio.
