@@ -11,3 +11,21 @@ DER:
 En nuestro diagrama de entidad de datos, se muestran items (peliculas) y a que categoria pertenecen (generos). A su vez dejamos la tabla que contiene al administrador a la vista para su futuro uso.
 
 ![Imagen DER](DER.png)
+
+Acesso a administrador : Usuario: web@admin.com
+                         Contraseña: admin
+
+Public acces: 
+El usuario podra ver las peliculas listadas, al tocar el titulo, la pagina le ofrecera una informacion detallada, podra acceder a tambien un listado de generos de peliculas-.
+
+Admin: El administrador podra editar, agregar o eliminar cualquier pelicula con su respectivo genero.
+
+Como desplegar el sitio.
+
+1. Iniciar apache y phpMyAdmin.
+2. 2.Clonar el repositorio "https://github.com/BelenHiese/TPE_WEB2_MOVIES" dentro de la carpeta C:/xammp/htdocs.
+3. En el browser iniciar localhost/phpMyAdmin
+
+   Crear una DB con nombre "g1_db_movies" vacio.
+   El sitio crea y completa las tablas en la DB.
+   En el browser ingresar "localhost/TPE_WEB2_MOVIES"
